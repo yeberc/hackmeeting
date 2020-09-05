@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Informacion
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Organizacion
+    content : Conferencias, foros, reuniones, talleres, mesas redondas de discusiónen en la cual, las comunidades y o profesionales independinetes, pueden exponer sus trabajos o participar de todos y cada uno de los eventos con el unico fin de continuar aprendiendo y compartiendo en comunidad y empezar a coordinar esfuerzos para los desafíos del futuro y las exigencias que nos plantea la sociedad y la tecnologia que avanza cada dia.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Temario
+    content : Quieres ser Parte del Selecto grupo de expositores de este gran evento de difucion del conocimiento envia tu propuesta y registrate Aqui.)formulario expositor).
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : CTF
+    content :  WarGame Es una actividad que contiene una serie de pruebas con simulaciones de vulnerabilidades web, pruebas de ingeniería inversa, y criptografía, así como problemas de programación y algoritmia.

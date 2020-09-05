@@ -1,0 +1,16 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/presentacion.png"
+  bg_image : "images/backgrounds/presentacion.png"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Hackmeeting 0x7E4"
+  content : "Te invitamos participar el evento mas importante del conocimiento en el Área de tecnología Informática, Sistemas, Redes Seguridad 
+   Este año se tiene como sede la Ciudad de Yacuiba en Tarja - Bolivia la actividad se desarrollará los dias 9, 10 y 11 de octubre. 
+   este año se desarrollaran todas las presentaciones de manera virtual abierto para el mundo entero.
+ 
+ Esperarnos reunirnos una vez más esta maravillosa comunidad hacker en su XI Version. y la primera en Version on line para Bolivia y el mundo."
+  button:
+    enable : true
+    label : "Mas Información"
+    link : "#services"
